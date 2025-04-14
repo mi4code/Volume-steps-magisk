@@ -1,7 +1,7 @@
-id=VolumeSteps
+id=VolumeStepsMoreSteps
 name=Volume step changer
 version=v0.1
 versionCode=1
-author=Wacko1805, RikuAzhurlar
+author=Wacko1805, RikuAzhurlar, mi4code
 description=Changes the amount of presses to get too full media volume.
 template=4
